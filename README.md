@@ -16,8 +16,8 @@ And a total of 27,558 images.
 
 
 ## Outputs
-- Test Accuraccies for Malaria dataset
+- Test Accuraccies for Malaria dataset   
 ![alt text](https://github.com/Jeevan-Thukrul/Comparing-different-optimizers-in-Machine-Learning/blob/master/output/malaria_output.png)
 
-- Test Accuraccies for Fashion MNIST Dataset
+- Test Accuraccies for Fashion MNIST Dataset   
 ![alt text](https://github.com/Jeevan-Thukrul/Comparing-different-optimizers-in-Machine-Learning/blob/master/output/fmnist_output.png)
